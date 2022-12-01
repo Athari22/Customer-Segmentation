@@ -1,7 +1,8 @@
 # Customer Segmentation using Machine Learning
 ## Description
-Let’s say, you decided to buy a t-shirt from a brand online. Have you ever thought that who else bought the same t-shirt? People, who have similar to you, right? Same age, same hobbies, same gender, etc. 
 ![img](https://github.com/Athari22/Customer-Segmentation/blob/main/Customer%20Segmentation%20using%20Machine%20Learning/segmentation.png)
+Let’s say, you decided to buy a t-shirt from a brand online. Have you ever thought that who else bought the same t-shirt? People, who have similar to you, right? Same age, same hobbies, same gender, etc. 
+
 
 Today, many businesses are going online and therefore online marketing is essential to retain customers. However, considering all customers as equal and targeting them all with similar marketing strategies is not an efficient way, since it also annoys the customers by neglecting their individuality, so customer segmentation has become very popular and has also become a viable solution. So, we actually try to find and group customers based on common characteristics such as age, gender, living area, spending behavior, etc. So that we can market the customers effectively.
 
