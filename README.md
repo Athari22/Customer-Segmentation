@@ -1,6 +1,8 @@
 # Customer Segmentation using Machine Learning
 ## Description
 ![img](https://github.com/Athari22/Customer-Segmentation/blob/main/Customer%20Segmentation%20using%20Machine%20Learning/segmentation.png)
+
+
 Let’s say, you decided to buy a t-shirt from a brand online. Have you ever thought that who else bought the same t-shirt? People, who have similar to you, right? Same age, same hobbies, same gender, etc. 
 
 
